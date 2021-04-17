@@ -36,7 +36,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/map.json"
+                 "value":".\/silpion.json"
                 }],
          "type":"tilelayer",
          "visible":true,
