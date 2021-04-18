@@ -998,19 +998,6 @@
          "tilecount":2,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":10,
-         "firstgid":339,
-         "image":"chaosdorffloortiles.png",
-         "imageheight":320,
-         "imagewidth":320,
-         "margin":0,
-         "name":"chaosdorffloortiles",
-         "spacing":0,
-         "tilecount":100,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
